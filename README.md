@@ -2,13 +2,21 @@
 
 An FAQ bot for student-led Hackathons.
 
+## Deployed on Replit 
+Replit link -> 
+
+
 ## Features
 
-- Provides information about hackathons such as types, eligibility, registration process, etc.
+- Facilitate Registration for hackathon with the integration of MongoDB database.
+- Supports Multiple Languages and making it very versatile
+- Provides a user friendly and interactive interface which encourages the users to participate in hakcathons.
+
+- Provides information about hackathons such as theme, eligibility, registration process, etc.
 - Answers frequently asked questions about hackathons.
 - Offers advice and tips for participants to excel at hackathons.
-- provides resources for how to get started with hackathons.
-- can respond in multiple languages.
+- Provides resources for how to get started with hackathons.
+
 
 ## Usage
 
