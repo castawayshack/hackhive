@@ -1,9 +1,9 @@
 ### HACKHIVE
 
-An FAQ bot for student-led Hackathons.
+Hackhive is a versatile and user-friendly FAQ bot designed to assist participants of student-led hackathons. It is deployed on Replit, making it easily accessible for all users.
 
 ## Deployed on Replit 
-Replit link -> 
+Replit link -> https://replit.com/@jahnvi1533/HackathonBotFinal#main.py
 
 
 ## Features
