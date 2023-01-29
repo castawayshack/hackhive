@@ -1,4 +1,4 @@
-## HACKHIVE
+### HACKHIVE
 
 An FAQ bot for student-led Hackathons.
 
@@ -11,12 +11,16 @@ Replit link ->
 - Facilitate Registration for hackathon with the integration of MongoDB database.
 - Supports Multiple Languages and making it very versatile
 - Provides a user friendly and interactive interface which encourages the users to participate in hakcathons.
-
 - Provides information about hackathons such as theme, eligibility, registration process, etc.
 - Answers frequently asked questions about hackathons.
 - Offers advice and tips for participants to excel at hackathons.
 - Provides resources for how to get started with hackathons.
 
+## Tech stack 
+- Python
+- NLP(Natural processing language)
+- NLTK(Natural Language Toolkit)
+- Mongodb
 
 ## Usage
 
